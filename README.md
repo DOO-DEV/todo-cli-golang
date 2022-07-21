@@ -9,7 +9,6 @@ It has these commads:
     5) -list
 
 ```
-
-    ![alt text](https://github.com/[doo-dev]/[todo-cli-golang]/blob/[main]/screen.png?raw=true)
+![alt text](./screen.png)
 
 #### I hope you like it.
